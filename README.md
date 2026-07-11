@@ -31,14 +31,6 @@ native WPF console, human-readable recovery contracts, fail-closed integrity
 checks, real-backup compatibility evidence, and cross-platform regression suites.
 The public repository will launch from a separately audited, clean history.
 
-## Selected public work
-
-| Project | What it explores |
-|---|---|
-| [frontend-contract-skill](https://github.com/starbuck100/frontend-contract-skill) | Durable frontend contracts, indexed UI evidence, and safer agent-driven interface work. |
-| [statusline-factory](https://github.com/starbuck100/statusline-factory) | Modular Claude Code status blocks for training progress, server health, GPU usage, and terminal operations. |
-| [starbuck100.github.io](https://github.com/starbuck100/starbuck100.github.io) | A static WebGL profile and interactive map of the systems I build. |
-
 ## How I work
 
 ```text
@@ -56,4 +48,4 @@ Build the tool → run the real workflow → inspect the visible result → hard
 `Windows` · `Linux` · `GitHub Actions` · `AI agent tooling`
 
 If you are building agent workflows, local AI systems, media tooling, or better
-operator surfaces, take a look at the projects above or reach me through GitHub.
+operator surfaces, reach me through GitHub.
